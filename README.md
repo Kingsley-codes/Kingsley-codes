@@ -13,8 +13,9 @@
 
 *Building products that work — from the database to the door.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Kingsley-codes/Kingsleys-Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2c9b8c?style=for-the-badge&logo=vercel&logoColor=white)](https://kingsleys-s-portfolio.onrender.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kingsley-codes)
+[![Linkedin](https://img.shields.io/badge/Linkedin-2c3c9b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kingsley-agbam)
 
 </div>
 
@@ -22,9 +23,9 @@
 
 ## About Me
 
-I'm a full-stack developer with a strong backend focus, building robust APIs, real-time systems, and AI-powered platforms. I work across the entire stack — from designing RESTful and WebSocket APIs in Node.js, to crafting polished frontends with Next.js and React.
+I'm a full-stack developer with 4+ years experience and a strong backend focus, **building robust APIs, real-time systems, and AI-powered platforms**. I work across the entire stack — from designing RESTful and WebSocket APIs in Node.js, to crafting polished frontends with Next.js and React.
 
-I enjoy solving hard problems: payment integrations, real-time messaging, vector search, gamification systems, and multi-role authentication. My projects span edtech, healthtech, e-commerce, and logistics.
+I enjoy solving hard problems: **payment integrations, real-time messaging, vector search, gamification systems, and multi-role authentication**. My projects span **edtech, healthtech, e-commerce, and logistics**.
 
 ---
 
