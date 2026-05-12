@@ -1,22 +1,23 @@
+````md
 <div align="center">
 
-```
+```txt
 ██╗  ██╗██╗███╗   ██╗ ██████╗ ███████╗██╗     ███████╗██╗   ██╗
 ██║ ██╔╝██║████╗  ██║██╔════╝ ██╔════╝██║     ██╔════╝╚██╗ ██╔╝
-█████╔╝ ██║██╔██╗ ██║██║  ███╗███████╗██║     █████╗   ╚████╔╝ 
-██╔═██╗ ██║██║╚██╗██║██║   ██║╚════██║██║     ██╔══╝    ╚██╔╝  
-██║  ██╗██║██║ ╚████║╚██████╔╝███████║███████╗███████╗   ██║   
-╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝   ╚═╝   
+█████╔╝ ██║██╔██╗ ██║██║  ███╗███████╗██║     █████╗   ╚████╔╝
+██╔═██╗ ██║██║╚██╗██║██║   ██║╚════██║██║     ██╔══╝    ╚██╔╝
+██║  ██╗██║██║ ╚████║╚██████╔╝███████║███████╗███████╗   ██║
+╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝   ╚═╝
 ```
 
 ### Full-Stack Developer · Backend Specialist · Problem Solver
 
 *Building products that work — from the database to the door.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2c9b8c?style=plastic&logo=vercel&logoColor=white)](https://kingsleys-s-portfolio.onrender.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/Kingsley-codes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2c3c9b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kingsley-agbam)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agbamkingsley@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2c9b8c?style=plastic&logo=vercel&logoColor=white&logoWidth=20)](https://kingsleys-s-portfolio.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white&logoWidth=20)](https://github.com/Kingsley-codes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2c3c9b?style=plastic&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/kingsley-agbam)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=plastic&logo=gmail&logoColor=white&logoWidth=20)](mailto:agbamkingsley@gmail.com)
 
 </div>
 
@@ -24,151 +25,160 @@
 
 ## About Me
 
-I'm a full-stack developer with 4+ years experience and a strong backend focus, **building robust APIs, real-time systems, and AI-powered platforms**. I work across the entire stack — from designing RESTful and WebSocket APIs in Node.js, to crafting polished frontends with Next.js and React.
+I'm a full-stack developer with 4+ years experience and a strong backend focus, building robust APIs, real-time systems, and AI-powered platforms.
 
-I enjoy solving hard problems: **payment integrations, real-time messaging, vector search, gamification systems, and multi-role authentication**. My projects span **edtech, healthtech, e-commerce, and logistics**.
+I work across the entire stack — from designing RESTful and WebSocket APIs in Node.js to crafting polished frontends with Next.js and React.
+
+I enjoy solving hard problems:
+- Payment integrations
+- Real-time messaging
+- Vector search
+- Gamification systems
+- Multi-role authentication
+
+My projects span edtech, healthtech, e-commerce, and logistics.
 
 ---
 
 ## What I'm About
 
-- I build backends that can actually handle production traffic — real-time, payments, AI, the works
-- I move fast and commit often (see: 110 commits on meride-haven-backend)
-- I collaborate well — Funlearn was a multi-developer project with clear backend/frontend ownership
-- I care about clean architecture: controllers, models, routes, middleware — properly separated
-- I can either work with DevOps to set up and maintain CI/CD pipelines, or handle it myself
-- I write responsive, user-friendly frontends with Next.js and Tailwind CSS
+- I build backends that can handle production traffic
+- I move fast and commit often
+- I collaborate well in multi-developer teams
+- I care about clean architecture and maintainable systems
+- I can manage CI/CD workflows and deployments
+- I build responsive frontends with Next.js and Tailwind CSS
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-**Languages**
+## Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Integrations & Services**
-
-![Paystack](https://img.shields.io/badge/Paystack-00C3F7?style=for-the-badge&logo=paystack&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_AI-FF6B35?style=for-the-badge&logoColor=white)
-![Ably](https://img.shields.io/badge/Ably_Realtime-FF5416?style=for-the-badge&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black&logoWidth=20)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white&logoWidth=20)
 
 ---
 
-## Featured Projects
+## Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white&logoWidth=20)
+![Express](https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white&logoWidth=20)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white&logoWidth=20)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=plastic&logo=socket.io&logoColor=white&logoWidth=20)
+![JWT](https://img.shields.io/badge/JWT-000000?style=plastic&logo=jsonwebtokens&logoColor=white&logoWidth=20)
+
+---
+
+## Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white&logoWidth=20)
+![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black&logoWidth=20)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white&logoWidth=20)
+
+---
+
+## Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white&logoWidth=20)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white&logoWidth=20)
+
+---
+
+## Integrations & Services
+
+![Paystack](https://img.shields.io/badge/Paystack-00C3F7?style=plastic&logo=paystack&logoColor=white&logoWidth=20)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=plastic&logo=cloudinary&logoColor=white&logoWidth=20)
+![Groq](https://img.shields.io/badge/Groq_AI-FF6B35?style=plastic&logoColor=white&logoWidth=20)
+![Ably](https://img.shields.io/badge/Ably_Realtime-FF5416?style=plastic&logoColor=white&logoWidth=20)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=plastic&logoColor=white&logoWidth=20)
+
+---
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white&logoWidth=20)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white&logoWidth=20)
+
+---
+
+# Featured Projects
 
 ### 🎓 [Funlearn](https://github.com/Kingsley-codes/funlearn) · [Backend](https://github.com/Kingsley-codes/funlearn-backend)
-> AI-powered edtech platform with gamified quizzes, real-time chatrooms, and a competitive leaderboard system
 
-An innovative learning platform built as a full-stack collaboration. I owned the entire backend architecture — RAG-powered AI tutoring via Groq + Pinecone, Socket.io chatrooms with push notifications, a 21-rank gamification engine with weekly resets, and Cloudinary-backed file uploads.
+AI-powered edtech platform with gamified quizzes, real-time chatrooms, and a competitive leaderboard system.
 
 `Node.js` `Express` `MongoDB` `Socket.io` `Groq AI` `Pinecone` `Cloudinary` `JWT` `Next.js`
 
 ---
 
 ### 🧠 [We-Listen](https://github.com/Kingsley-codes/we-listen)
-> Real-time therapy backend with session management, Paystack payments, and Ably-powered messaging
 
-A mental health platform API connecting users to therapists. Features include session lifecycle management (start, pause, resume, lock), real-time messaging over Ably, payment processing with webhook verification, and a dedicated worker for enforcing session rules at scale.
+Real-time therapy backend with session management, Paystack payments, and Ably-powered messaging.
 
 `Node.js` `Express` `MongoDB` `Ably` `Paystack` `JWT`
 
 ---
 
 ### 🏡 [Meride Haven Backend](https://github.com/Kingsley-codes/meride-haven-backend)
-> Property/hospitality platform backend — the most commit-heavy project in this portfolio
 
-A heavily developed backend (110+ commits) powering a haven/lodging marketplace. Built with Node.js and Express, handling property listings, bookings, and user management.
+Property and hospitality backend platform with 110+ commits.
 
-`Node.js` `Express` `MongoDB` `JavaScript`
+`Node.js` `Express` `MongoDB`
 
 ---
 
 ### 🚗 [Drivenest](https://github.com/Kingsley-codes/drivenest)
-> Car rental or auto marketplace platform — full-stack with Next.js frontend and integrated server
 
-A TypeScript-first full-stack application (84% TypeScript) with both a Next.js frontend and Node.js backend, covering vehicle listing, search, and booking flows.
+TypeScript-first car rental and vehicle marketplace platform.
 
 `Next.js` `TypeScript` `Node.js` `Tailwind CSS`
 
 ---
 
 ### 🛍️ [Forever E-Commerce](https://github.com/Kingsley-codes/forever-ecommerce)
-> Full-stack e-commerce system with admin panel, storefront, and backend API
 
-A monorepo e-commerce platform with separate `admin`, `frontend`, and `backend` directories — product management, cart, orders, and a full admin dashboard.
+Full-stack e-commerce platform with admin dashboard and backend API.
 
-`JavaScript` `React` `Node.js` `Express` `MongoDB`
+`React` `Node.js` `Express` `MongoDB`
 
 ---
 
 ### 💸 [iDonatio Backend](https://github.com/Kingsley-codes/iDonatio-backend)
-> Donation platform API
 
-Backend service for a crowdfunding/donation platform, handling campaign creation, user contributions, and transaction management.
+Donation and crowdfunding backend API.
 
 `Node.js` `Express` `MongoDB`
 
 ---
 
 ### ✅ [TaskGynie Admin](https://github.com/Kingsley-codes/taskgynie-admin)
-> Admin panel for a task management SaaS
 
-Administrative interface for managing users, tasks, and platform operations for the TaskGynie productivity platform.
+Administrative dashboard for task and workflow management.
 
 ---
 
 ### 🌍 [OcofAmerica Office](https://github.com/Kingsley-codes/ocofamerica-office)
-> Organizational web presence for OcofAmerica
 
-Official web application for an organization's office operations and online presence.
+Organization office and management platform.
 
 ---
 
 ### 🧪 [Enforca Sandbox](https://github.com/Kingsley-codes/enforca-sandbox)
-> Experimental/sandbox project for enforcement or rules-based system testing
 
-A sandbox repository for testing enforcement logic, rules engines, or constraint-based systems.
+Sandbox repository for testing systems and enforcement logic.
 
 ---
 
 ### 🗂️ [Kingsley's Portfolio](https://github.com/Kingsley-codes/Kingsleys-Portfolio)
-> Personal portfolio — built with Next.js and TypeScript
 
-My developer portfolio site, showcasing projects and skills. Built entirely in TypeScript (98.3%) with Next.js and Tailwind CSS.
+Personal portfolio built with Next.js and TypeScript.
 
 `Next.js` `TypeScript` `Tailwind CSS`
 
 ---
 
-## GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -182,14 +192,15 @@ My developer portfolio site, showcasing projects and skills. Built entirely in T
 
 <div align="center">
 
-## Let's Connect
+# Let's Connect
 
 I'm always open to:
+- Collaborations
+- Full-stack roles
+- Backend engineering opportunities
+- Building scalable systems
 
-- Meaningful collaborations
-- Fullstack-focused roles
-- Conversations around building scalable systems
-
-*Let's build something that matters.*
+*Let's build something great.*
 
 </div>
+````
