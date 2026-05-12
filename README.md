@@ -13,7 +13,7 @@
 
 *Building products that work — from the database to the door.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2c9b8c?style=for-the-badge&logo=vercel&logoColor=white)](https://kingsleys-s-portfolio.onrender.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2c9b8c?style=flat&logo=vercel&logoColor=white)](https://kingsleys-s-portfolio.onrender.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kingsley-codes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2c3c9b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kingsley-agbam)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agbamkingsley@gmail.com)
