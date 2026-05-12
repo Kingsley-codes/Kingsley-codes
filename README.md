@@ -180,7 +180,7 @@ My developer portfolio site, showcasing projects and skills. Built entirely in T
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## Let's Connect
 
