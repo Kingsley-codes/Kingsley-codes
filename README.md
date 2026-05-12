@@ -15,7 +15,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2c9b8c?style=for-the-badge&logo=vercel&logoColor=white)](https://kingsleys-s-portfolio.onrender.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kingsley-codes)
-[![Linkedin](https://img.shields.io/badge/Linkedin-2c3c9b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kingsley-agbam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2c3c9b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kingsley-agbam)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agbamkingsley@gmail.com)
 
 </div>
 
@@ -29,27 +30,55 @@ I enjoy solving hard problems: **payment integrations, real-time messaging, vect
 
 ---
 
+## What I'm About
+
+- I build backends that can actually handle production traffic — real-time, payments, AI, the works
+- I move fast and commit often (see: 110 commits on meride-haven-backend)
+- I collaborate well — Funlearn was a multi-developer project with clear backend/frontend ownership
+- I care about clean architecture: controllers, models, routes, middleware — properly separated
+- I can either work with DevOps to set up and maintain CI/CD pipelines, or handle it myself
+- I write responsive, user-friendly frontends with Next.js and Tailwind CSS
+
+---
+
 ## Tech Stack
 
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
 **Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **Frontend**
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Integrations & Tools**
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Integrations & Services**
+
 ![Paystack](https://img.shields.io/badge/Paystack-00C3F7?style=flat-square&logo=paystack&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_AI-FF6B35?style=flat-square&logoColor=white)
 ![Ably](https://img.shields.io/badge/Ably_Realtime-FF5416?style=flat-square&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
@@ -143,27 +172,24 @@ My developer portfolio site, showcasing projects and skills. Built entirely in T
 
 <div align="center">
 
-![Kingsley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kingsley-codes&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e)
+![Kingsley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kingsley-codes&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e&border_radius=12)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsley-codes&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsley-codes&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&border_radius=12)
 
 </div>
 
 ---
 
-## What I'm About
-
-- I build backends that can actually handle production traffic — real-time, payments, AI, the works
-- I move fast and commit often (see: 110 commits on meride-haven-backend)
-- I collaborate well — Funlearn was a multi-developer project with clear backend/frontend ownership
-- I care about clean architecture: controllers, models, routes, middleware — properly separated
-
----
-
 <div align="center">
 
-*Open to collaborations, freelance projects, and full-time opportunities.*
+## Let's Connect
 
-**Let's build something that matters.**
+I'm always open to:
+
+- Meaningful collaborations
+- Fullstack-focused roles
+- Conversations around building scalable systems
+
+*Let's build something that matters.*
 
 </div>
